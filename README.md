@@ -1,61 +1,98 @@
 # Charlotte M. Alward
 
-Business Operations | Process Improvement | AI Enablement | Enterprise Workflow Design
+Business Operations | AI Enablement | Process Improvement | Procurement & Supplier Governance
 
-I turn complex operational requirements into practical workflows, controls, and systems. My background spans federal subcontract administration, business operations, process improvement, entrepreneurship, and military leadership.
+I turn fragmented workflows into practical, measurable operating systems. My background combines enterprise operations, federal subcontract administration, executive partnership, Lean Six Sigma, business ownership, and military leadership.
 
-I connect business needs with system behavior: defining requirements, mapping dependencies, designing approval paths, identifying exceptions, and testing whether the workflow works for the people using it.
+My approach: baseline the process, find the root cause, remove waste, then automate. I connect requirements, controls, data, and user adoption so improvements hold beyond the initial launch.
+
+[Portfolio & demonstrations](https://charlottealward.com) · [LinkedIn](https://www.linkedin.com/in/charlotte-alward)
+
+## Selected results
+
+- Architected, coded, and launched an Oracle APEX workflow platform at Oracle Health: 2.5x faster processing and 90% fewer email approvals.
+- Served as sole administrator for VAR, software licensing, and technology suppliers within a $300M+ subcontract portfolio supporting the VA Electronic Health Record Modernization program.
+- Directed a six-person cross-functional tiger team that reduced resource onboarding cycle time by 25%.
+- Built financial controls and management reporting for 36 subcontractors.
+- Served in a chief-of-staff capacity for an Operations VP, preparing KPIs, QBRs, C-suite reporting, and the executive operating cadence.
+- Led and mentored a seven-soldier squad for four years, including an Operation Enduring Freedom deployment.
+
+These results relate to my professional experience; projected benefits from my independent software projects are evaluated separately.
+
+## How I build with AI
+
+I define the business problem, map current and future workflows, write requirements and acceptance criteria, direct AI coding agents, review outputs, and test application behavior through user acceptance testing.
+
+I use Claude, Claude Code, OpenAI Codex, and ChatGPT to support implementation, documentation, and testing. My responsibilities include product ownership, operational design, controls, development direction, and hands-on validation.
 
 ## Featured project: Ozbek
 
-Ozbek is an enterprise operations and lifecycle automation platform in development. Its intended scope connects opportunity management, estimating and proposals, award, contracts and subcontracts, execution, warranties, and closeout.
+Enterprise Operations & Lifecycle Automation Platform
 
-The business problem is fragmented information: teams managing related decisions across spreadsheets, email, documents, and separate applications. Ozbek explores how a connected lifecycle can improve accountability, visibility, and continuity.
+Ozbek addresses the information gaps between opportunity management, bid and LOE preparation, award, contracts, procurement, program execution, billing, warranty, closeout, and archive.
 
-### My contributions
+The demonstration explores federal and commercial workflows, including:
 
-- Defined the product vision and end-to-end business requirements.
-- Mapped operational workflows, approval responsibilities, dependencies, and exception paths.
-- Specified estimating, supplier oversight, contract lifecycle, and executive reporting requirements.
-- Directed AI-assisted development and iteratively reviewed application behavior.
-- Performed hands-on acceptance testing and identified calculation, navigation, data-flow, and usability issues.
-- Established requirements for evidence traceability, tenant separation, access controls, and human oversight.
+- Bid/no-bid decisions, requirements tracking, estimating, and pricing guardrails.
+- Approval chains, ownership transfers, and exception handling.
+- Contract and subcontract lifecycle controls, clause flow-downs, and change history.
+- Supplier evaluation, evidence traceability, and funding visibility.
+- Executive dashboards, deadline tracking, and financial handoffs.
 
-AI tools assist with implementation, documentation, and testing. My role centers on product ownership, operational design, requirements, development direction, and acceptance testing. This project is an example of applying domain expertise to software development.
+My contributions include the product vision, lifecycle mapping, business rules, acceptance criteria, security and integration requirements, and iterative testing of calculations, navigation, and cross-module data flow.
 
-### Development status
+Status: browser demonstration with fictional data; production implementation in progress toward a private pilot using synthetic data. Live integrations, hosted identity and security controls, and recovery procedures require implementation and acceptance before production release. Projected ROI awaits pilot validation. Source code remains private.
 
-Ozbek is under active development toward a private pilot using synthetic data. Demonstration behavior, implemented development features, and validated live integrations are distinct stages. End-to-end integration acceptance, hosted identity and security controls, and recovery validation remain part of the release work.
+## Other business systems
 
-This overview does not claim a production deployment, independent security certification, validated customer savings, or completion of every proposed integration. Source code and internal engineering materials remain private.
+### Dragonfly OS / DFH Operations Control Center
 
-## Experience I bring
+A working desktop application used to operate Dragonfly Hills LLC, built with AI assistance using Python, Tkinter, and SQLite.
 
-### Federal contracting and operations
+The system brings together executive decisions, actions, risks, deadlines, document classification, financial planning, cash-runway visibility, and a Weekly CEO Report. It includes statement CSV import, duplicate detection, reporting, and backup/restore functions.
 
-At Oracle/Cerner, I administered federal subcontracts and supported operational controls within the VA electronic health record modernization environment. My work included supplier coordination, contract and task-order administration, approval routing, reporting, and process improvement.
+### DFH Licensing CRM
 
-I designed an Oracle APEX workflow environment bringing supplier, subcontract, task-order, pricing, approval, and reporting information into a shared operational structure.
+A browser-based licensing CRM built with HTML and JavaScript, with company/contact organization, outreach sequences, activity logging, NDA tracking, supplier assessments, calendar export, and JSON backup/restore.
 
-### Business ownership
+### Portfolio case studies
 
-As founder of Dragonfly Hills LLC, I led product development, supplier research, procurement planning, contract preparation, financial modeling, and business systems design. The venture concluded in October 2026 following prior-art findings. I am focused on bringing that ownership and problem-solving experience to a full-time role.
+My website includes fictional business scenarios demonstrating Lean Six Sigma DMAIC and procurement-to-closeout workflow design.
 
-### People leadership
+[Explore my portfolio](https://charlottealward.com)
 
-My Army National Guard experience includes four years leading a seven-soldier squad, brigade personnel operations supporting more than 250 soldiers, and deployment in support of Operation Enduring Freedom. Leadership, mentoring, sensitive information handling, and disciplined execution shape how I approach operations.
+## Professional experience
 
-## Areas of focus
+### Oracle Health / Cerner
 
-- Business operations and operational excellence
-- Process mapping and workflow optimization
-- AI enablement with human oversight
-- Business analysis and systems requirements
-- Supplier and subcontract lifecycle management
-- Approval controls, evidence traceability, and executive visibility
+Federal Subcontracts Administrator II, with earlier experience as Senior Engagement Controller and Senior Project Coordinator.
 
-## Professional foundation
+My work connected Legal, Finance, Procurement, Program Management, and suppliers across contract administration, funding, invoicing, performance reporting, approval workflows, and audit readiness. I built a commercial-to-federal data crosswalk linking Oracle orderable SKUs with task-order funding and subcontract workshare.
 
-Lean Six Sigma Green Belt, with additional training in DevOps, process mapping, facilitating process improvements, and using AI to reimagine business processes.
+Earlier responsibilities included creating a Government Furnished Equipment accountability model, executive operating support, training materials, and helping establish the Arlington, Virginia federal office.
 
-I am interested in roles where I can connect people, processes, and technology to improve how work gets done.
+### Dragonfly Hills LLC — Founder & CEO
+
+Led a product IP licensing venture across supplier evaluation, procurement, contract preparation, financial modeling, R&D, governance, and business systems. The venture concluded in October 2026 following prior-art findings. I am fully focused on a full-time role.
+
+### Army National Guard
+
+Four years of squad leadership, an OEF deployment to Kuwait, personnel readiness and accountability, and service as Unit Fitness and Resilience Coordinator. My work emphasized mentorship, sensitive information handling, standards, and helping soldiers succeed.
+
+Leadership education includes Advanced Leader Course (Honor Graduate) and Warrior Leader Course (Distinguished Honor Graduate).
+
+## Tools & methods
+
+Oracle APEX · SQL · Python · SQLite · HTML/CSS/JavaScript · Microsoft 365 · SharePoint · Power Automate · Microsoft Lists · Excel · Power BI · AI coding agents
+
+Lean Six Sigma DMAIC · Process mapping · Requirements gathering · UAT · SOPs · RACI · Controls design · Training and adoption
+
+## Professional development
+
+Lean Six Sigma Green Belt · BCS Foundation Certificate in Business Analysis · DevOps Foundation · Oracle APEX Developer · Use AI to Reimagine Business Processes · Lean Process Mapping · Facilitating Process Improvement in Teams · Developing Executive Presence
+
+## Opportunities
+
+I am interested in business operations, AI enablement, process improvement, business transformation, procurement, supplier governance, and executive operations roles where I can connect people, processes, and technology.
+
+Connect with me through [LinkedIn](https://www.linkedin.com/in/charlotte-alward) or explore [my portfolio](https://charlottealward.com).
