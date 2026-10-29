@@ -6,7 +6,7 @@ I turn fragmented workflows into practical, measurable operating systems. My bac
 
 My approach: baseline the process, find the root cause, remove waste, then automate. I connect requirements, controls, data, and user adoption so improvements hold beyond the initial launch.
 
-[Portfolio & demonstrations](https://charlottealward.com) · [LinkedIn](https://www.linkedin.com/in/charlotte-alward)
+[Portfolio & demonstrations](https://charlottealward.com) · [Ozbek demo suite](https://www.youtube.com/playlist?list=PLA-w8eAEXkHk) · [LinkedIn](https://www.linkedin.com/in/charlotte-alward)
 
 ## Selected results
 
@@ -28,6 +28,8 @@ I use Claude, Claude Code, OpenAI Codex, and ChatGPT to support implementation, 
 ## Featured project: Ozbek
 
 Enterprise Operations & Lifecycle Automation Platform
+
+[Watch the Ozbek demo suite on YouTube](https://www.youtube.com/playlist?list=PLA-w8eAEXkHk)
 
 Ozbek addresses the information gaps between opportunity management, bid and LOE preparation, award, contracts, procurement, program execution, billing, warranty, closeout, and archive.
 
